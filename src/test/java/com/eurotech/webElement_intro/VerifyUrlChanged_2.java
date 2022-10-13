@@ -7,7 +7,9 @@ import utilities.WebDriverFactory;
 
 public class VerifyUrlChanged_2 {
     public static void main(String[] args) {
+          //githubdeneme
    // bir önceki dersi kısaca tekrar et
+
 
         //open chrome browser
         //go to http://eurotech.study/login
